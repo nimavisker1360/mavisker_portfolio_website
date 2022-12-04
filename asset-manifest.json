@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mavisker_portfolio_website/static/css/main.9356eec6.css",
+    "main.js": "/mavisker_portfolio_website/static/js/main.e11ec41f.js",
+    "static/media/about_me.jpg": "/mavisker_portfolio_website/static/media/about_me.32dd8d4f4730713bf4d5.jpg",
+    "static/media/weather_App_cover.png": "/mavisker_portfolio_website/static/media/weather_App_cover.6d515fc31a7d79857857.png",
+    "static/media/image_overlay5.png": "/mavisker_portfolio_website/static/media/image_overlay5.2ee598953089a9207c80.png",
+    "static/media/Deignminimal_website.jpg": "/mavisker_portfolio_website/static/media/Deignminimal_website.a9764e0499a7c7f4bcb6.jpg",
+    "static/media/Me2.png": "/mavisker_portfolio_website/static/media/Me2.da14e1818e283bd66070.png",
+    "static/media/Prototyping+Resource.png": "/mavisker_portfolio_website/static/media/Prototyping+Resource.821fa0eac1f65f1df6ef.png",
+    "static/media/Frame1.jpg": "/mavisker_portfolio_website/static/media/Frame1.15f2d908e2c23bff192c.jpg",
+    "static/media/CV.pdf": "/mavisker_portfolio_website/static/media/CV.b938844ef54c563e21d0.pdf",
+    "static/media/iMac - 2.jpg": "/mavisker_portfolio_website/static/media/iMac - 2.6e6b479d400ba0b1a663.jpg",
+    "static/media/chat app.jpg": "/mavisker_portfolio_website/static/media/chat app.05ebcc130a13daf61b01.jpg",
+    "static/media/logo.png": "/mavisker_portfolio_website/static/media/logo.daddc20db205f08d3609.png",
+    "index.html": "/mavisker_portfolio_website/index.html",
+    "main.9356eec6.css.map": "/mavisker_portfolio_website/static/css/main.9356eec6.css.map",
+    "main.e11ec41f.js.map": "/mavisker_portfolio_website/static/js/main.e11ec41f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9356eec6.css",
+    "static/js/main.e11ec41f.js"
+  ]
+}
